@@ -1,0 +1,6 @@
+[bulid]
+  command = "npm run bulid"
+  publish = "dist
+
+[bulid.enviroment]
+  CI = "true"
